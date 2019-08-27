@@ -61,7 +61,7 @@ public class Persona {
 	public void setEcivil(char ecivil) {
 		this.ecivil = ecivil;
 	}
-	// Es generado por la maquina
+	
 	@Override
 	public String toString() {
 		return "Persona [id=" + id + ", nombre=" + nombre + ", apellido=" + apellido + ", sexo=" + sexo + ", ecivil="
